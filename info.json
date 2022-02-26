@@ -1,0 +1,22 @@
+{
+
+    "usernames": [
+        "amirm_official7"
+    ],
+    "login": {
+        "username": "amir_m_gamer",
+        "password": "amir.1221"
+    },  
+    "goodMorningMassages": {
+        "time": "10:20",
+        "massages": []
+    },
+    "goodNightMassages": {
+        "time": "21:15",
+        "massages": ["good night sienna", "gn"]
+    },
+    "questions": {
+        "time": "12:30",
+        "massages": []
+    }
+}
