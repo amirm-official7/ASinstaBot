@@ -1,0 +1,14 @@
+{
+    "goodNightMassages": {
+        "time": "",
+        "massages": ["good night sienna", "gn"]
+    },
+    "goodMorningMassages": {
+        "time": "",
+        "massages": []
+    },
+    "questions": {
+        "time": "",
+        "massages": []
+    }
+}
